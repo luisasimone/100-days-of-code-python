@@ -37,6 +37,6 @@ while not game_over:
 if "_" not in word_guess:
     print("You win!")
 else:
-    print(f"You lose! The word was {chosen_word}")
+    print(f"You lose! The word was {chosen_word}.")
 
 
